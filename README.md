@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI&ML Graduate.<br>~ I'm looking to collaborate on building AI Tools and models.<br>~ I'm working on building a PDF-based AI study assistant using a beginner-level RAG pipeline.<br>~ The focus is on document ingestion, chunking, retrieval, and grounding LLM outputs in source text.<br>
+AI&ML Graduate.<br>~ I'm looking to collaborate on building AI Tools and models.<br>~ A PDF-based AI study assistant using a beginner-level RAG pipeline.<br>~ The focus is on document ingestion, chunking, retrieval, and grounding LLM outputs in source text.<br>
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ AI&ML Graduate.<br>~ I'm looking to collaborate on building AI Tools and models.
 ![](https://github-readme-stats.vercel.app/api?username=mohammaditabassumkhatib-oss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mohammaditabassumkhatib-oss&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammaditabassumkhatib-oss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohammaditabassumkhatib-oss&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohammaditabassumkhatib-oss&icon=0&color=0)](https://visitcount.itsvg.in)
