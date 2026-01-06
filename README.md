@@ -1,5 +1,5 @@
 # 💫 About Me:
-AIML Graduate.<br>~ I'm looking to collaborate on building AI Tools and models.<br>~ I'm currently building a PDF-based AI Study Sssistant Tool using a beginner-level RAG pipeline.<br>~ The focus is on document ingestion, chunking, retrieval, and grounding LLM outputs in source text.<br>
+AIML Graduate.<br>~ I'm looking to collaborate on building AI Tools and models.<br>~ I'm currently building a PDF-based AI Study Assistant Tool using a beginner-level RAG pipeline.<br>~ The focus is on document ingestion, chunking, retrieval, and grounding LLM outputs in source text.<br>
 
 
 ## 🌐 Socials:
